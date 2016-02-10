@@ -1,0 +1,4 @@
+E:\Workspace\BookStoreUW\BookStoreUW.Core\bin\Debug\BookStoreUW.Core.dll
+E:\Workspace\BookStoreUW\BookStoreUW.Core\bin\Debug\BookStoreUW.Core.pdb
+E:\Workspace\BookStoreUW\BookStoreUW.Core\obj\Debug\BookStoreUW.Core.dll
+E:\Workspace\BookStoreUW\BookStoreUW.Core\obj\Debug\BookStoreUW.Core.pdb

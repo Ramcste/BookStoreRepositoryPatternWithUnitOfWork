@@ -1,0 +1,12 @@
+E:\Workspace\BookStoreUW\BookStoreUW.Data\bin\Debug\BookStoreUW.Data.dll.config
+E:\Workspace\BookStoreUW\BookStoreUW.Data\bin\Debug\BookStoreUW.Data.dll
+E:\Workspace\BookStoreUW\BookStoreUW.Data\bin\Debug\BookStoreUW.Data.pdb
+E:\Workspace\BookStoreUW\BookStoreUW.Data\bin\Debug\BookStoreUW.Core.dll
+E:\Workspace\BookStoreUW\BookStoreUW.Data\bin\Debug\EntityFramework.dll
+E:\Workspace\BookStoreUW\BookStoreUW.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Workspace\BookStoreUW\BookStoreUW.Data\bin\Debug\BookStoreUW.Core.pdb
+E:\Workspace\BookStoreUW\BookStoreUW.Data\bin\Debug\EntityFramework.xml
+E:\Workspace\BookStoreUW\BookStoreUW.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Workspace\BookStoreUW\BookStoreUW.Data\obj\Debug\BookStoreUW.Data.csprojResolveAssemblyReference.cache
+E:\Workspace\BookStoreUW\BookStoreUW.Data\obj\Debug\BookStoreUW.Data.dll
+E:\Workspace\BookStoreUW\BookStoreUW.Data\obj\Debug\BookStoreUW.Data.pdb
